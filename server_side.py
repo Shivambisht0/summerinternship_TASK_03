@@ -1,4 +1,4 @@
-SERVER SIDE CODE:
+#SERVER SIDE CODE:
 import socket
 import numpy as np
 import cv2
